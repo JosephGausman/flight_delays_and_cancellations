@@ -1,7 +1,7 @@
 
 #  Working directory
 getwd()
-setwd("/Users/yossigausman/Desktop/DSA/RDA/Working Directory")
+setwd(...)
 
 # Installed packages
 install.packages('dplyr')
